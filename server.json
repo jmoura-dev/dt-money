@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2023-07-15T10:18:16.612Z"
+    },
+    {
+      "description": "Desenvolvimente de app",
+      "category": "venda",
+      "price": 5000,
+      "type": "income",
+      "createdAt": "2023-07-17T14:58:16.876Z",
+      "id": 3
+    },
+    {
+      "description": "X-tudo",
+      "category": "alimentação",
+      "price": 22,
+      "type": "outcome",
+      "createdAt": "2023-07-17T15:18:20.008Z",
+      "id": 4
     }
   ]
 }
